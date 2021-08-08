@@ -1,7 +1,7 @@
 # container_from_scratch
 Building a container from scratch
 
-## Build the Contianer Yourself and Push to Docker Hub
+# Build the Container Yourself and Push to Docker Hub
 
 # Build Image
 
